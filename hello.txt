@@ -1,0 +1,19 @@
+Version control
+Centralized*
+ 	Easy for begin
+	Central repo
+	online only
+	TFS,SVN
+	slow
+Distributed
+	diff for beg
+	multiple system
+	offline
+	Git(DVCS/Open source)
+	fast
+	branching is lighwright(parallel simultaneous dev)
+GitHub??
+BitBucket
+
+
+	
